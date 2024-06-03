@@ -1,6 +1,6 @@
 ## CS453 Spring 2024 Project Report
 
-Please use this GitHub Classroom repo to submit the project reports. You are expected to submit the following two files using this repository.
+Please use this GitHub Classroom repo to submit the project reports. You are expected to submit the following two files using this repository. **Both should be PDF files.**
 
 ### A group report
 
